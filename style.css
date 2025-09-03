@@ -1,0 +1,17 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #EFF5D2;
+}
+div{
+   
+    margin : 60px;
+}
+ul{
+    display: inline-block;
+}
+.Title{
+    text-align: center;
+    border: 2px solid orange;
+    padding: 10px;
+    margin: 30px auto 20px;
+}
