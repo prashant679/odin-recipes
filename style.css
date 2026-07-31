@@ -8,8 +8,9 @@ body{
     margin : 30px 100px;
 }
 ul{
-    display: inline-block;
-    text-align: center;
+
+
+    margin: 0 auto;
 }
 
 img{
@@ -19,6 +20,7 @@ img{
 a {
     color: #8FA31E;
     font-weight: bold;
+    text-align: center;
   }
 
 .text{
@@ -26,6 +28,7 @@ a {
     
 }
 .Title{
+    
     text-align: center;
     width: fit-content;
     color: #556B2F;
